@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariamiraglia
+- 👋 Hi, I’m Maria Miraglia
 - 👀 I’m interested in learn and collaborate with knowledge in this area
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate
