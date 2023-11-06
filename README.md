@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Miraglia
 - 👀 I’m interested in learn and collaborate with knowledge in this area
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science - SQL and Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: my email mariaemiraglia@gmail.com
 
